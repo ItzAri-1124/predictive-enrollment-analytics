@@ -1,0 +1,780 @@
+Institute_Code,Institute_Name,Institute_Type,District,Branch_Code,Branch_Name,Intro_Year,Base_Sanctioned_Seats
+CBIT,CBIT Institute of Technology,Private Autonomous,Hyderabad,CSE,Computer Science and Engineering,2016,240
+CBIT,CBIT Institute of Technology,Private Autonomous,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+CBIT,CBIT Institute of Technology,Private Autonomous,Hyderabad,AIML,Artificial Intelligence and Machine Learning,2020,60
+CBIT,CBIT Institute of Technology,Private Autonomous,Hyderabad,MEC,Mechanical Engineering,2016,60
+CBIT,CBIT Institute of Technology,Private Autonomous,Hyderabad,CSC,Cyber Security,2021,60
+CBIT,CBIT Institute of Technology,Private Autonomous,Hyderabad,INF,Information Technology,2016,60
+CBIT,CBIT Institute of Technology,Private Autonomous,Hyderabad,CSD,Data Science,2020,60
+CBIT,CBIT Institute of Technology,Private Autonomous,Hyderabad,EEE,Electrical and Electronics Engineering,2016,60
+JNTUH,JNTUH Engineering College,University Autonomous,Hyderabad,CSE,Computer Science and Engineering,2016,120
+JNTUH,JNTUH Engineering College,University Autonomous,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+JNTUH,JNTUH Engineering College,University Autonomous,Hyderabad,EEE,Electrical and Electronics Engineering,2016,60
+JNTUH,JNTUH Engineering College,University Autonomous,Hyderabad,MEC,Mechanical Engineering,2016,60
+JNTUH,JNTUH Engineering College,University Autonomous,Hyderabad,CSD,Data Science,2020,60
+JNTUH,JNTUH Engineering College,University Autonomous,Hyderabad,CSC,Cyber Security,2021,60
+JNTUH,JNTUH Engineering College,University Autonomous,Hyderabad,INF,Information Technology,2016,60
+OUCE,OUCE Institute of Technology,University Autonomous,Hyderabad,CSE,Computer Science and Engineering,2016,120
+OUCE,OUCE Institute of Technology,University Autonomous,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+OUCE,OUCE Institute of Technology,University Autonomous,Hyderabad,EEE,Electrical and Electronics Engineering,2016,60
+OUCE,OUCE Institute of Technology,University Autonomous,Hyderabad,CSC,Cyber Security,2021,60
+OUCE,OUCE Institute of Technology,University Autonomous,Hyderabad,AIML,Artificial Intelligence and Machine Learning,2020,60
+VNRV,VNRV Institute of Technology,Private Autonomous,Hyderabad,CSE,Computer Science and Engineering,2016,240
+VNRV,VNRV Institute of Technology,Private Autonomous,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+VNRV,VNRV Institute of Technology,Private Autonomous,Hyderabad,CSD,Data Science,2020,60
+VNRV,VNRV Institute of Technology,Private Autonomous,Hyderabad,INF,Information Technology,2016,60
+VNRV,VNRV Institute of Technology,Private Autonomous,Hyderabad,AIML,Artificial Intelligence and Machine Learning,2020,60
+VNRV,VNRV Institute of Technology,Private Autonomous,Hyderabad,CIV,Civil Engineering,2016,60
+VASV,VASV Institute of Technology,Private Autonomous,Hyderabad,CSE,Computer Science and Engineering,2016,240
+VASV,VASV Institute of Technology,Private Autonomous,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+VASV,VASV Institute of Technology,Private Autonomous,Hyderabad,EEE,Electrical and Electronics Engineering,2016,60
+VASV,VASV Institute of Technology,Private Autonomous,Hyderabad,AIML,Artificial Intelligence and Machine Learning,2020,60
+VASV,VASV Institute of Technology,Private Autonomous,Hyderabad,INF,Information Technology,2016,60
+VASV,VASV Institute of Technology,Private Autonomous,Hyderabad,CIV,Civil Engineering,2016,60
+VASV,VASV Institute of Technology,Private Autonomous,Hyderabad,MEC,Mechanical Engineering,2016,60
+VASV,VASV Institute of Technology,Private Autonomous,Hyderabad,CSD,Data Science,2020,60
+KMIT,KMIT Institute of Technology,Private Autonomous,Hyderabad,CSE,Computer Science and Engineering,2016,120
+KMIT,KMIT Institute of Technology,Private Autonomous,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+KMIT,KMIT Institute of Technology,Private Autonomous,Hyderabad,CIV,Civil Engineering,2016,60
+KMIT,KMIT Institute of Technology,Private Autonomous,Hyderabad,CSC,Cyber Security,2021,60
+KMIT,KMIT Institute of Technology,Private Autonomous,Hyderabad,CSD,Data Science,2020,60
+GRIET,GRIET Engineering College,Private Autonomous,Hyderabad,CSE,Computer Science and Engineering,2016,240
+GRIET,GRIET Engineering College,Private Autonomous,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+GRIET,GRIET Engineering College,Private Autonomous,Hyderabad,MEC,Mechanical Engineering,2016,60
+GRIET,GRIET Engineering College,Private Autonomous,Hyderabad,CSC,Cyber Security,2021,60
+GRIET,GRIET Engineering College,Private Autonomous,Hyderabad,CIV,Civil Engineering,2016,60
+MGIT,MGIT Institute of Technology,Private Autonomous,Hyderabad,CSE,Computer Science and Engineering,2016,120
+MGIT,MGIT Institute of Technology,Private Autonomous,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+MGIT,MGIT Institute of Technology,Private Autonomous,Hyderabad,CSC,Cyber Security,2021,60
+MGIT,MGIT Institute of Technology,Private Autonomous,Hyderabad,MEC,Mechanical Engineering,2016,60
+MGIT,MGIT Institute of Technology,Private Autonomous,Hyderabad,AIML,Artificial Intelligence and Machine Learning,2020,60
+MGIT,MGIT Institute of Technology,Private Autonomous,Hyderabad,INF,Information Technology,2016,60
+MGIT,MGIT Institute of Technology,Private Autonomous,Hyderabad,CSD,Data Science,2020,60
+MGIT,MGIT Institute of Technology,Private Autonomous,Hyderabad,CIV,Civil Engineering,2016,60
+CVSR,CVSR Institute of Technology,Private Autonomous,Hyderabad,CSE,Computer Science and Engineering,2016,120
+CVSR,CVSR Institute of Technology,Private Autonomous,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+CVSR,CVSR Institute of Technology,Private Autonomous,Hyderabad,AIML,Artificial Intelligence and Machine Learning,2020,60
+CVSR,CVSR Institute of Technology,Private Autonomous,Hyderabad,MEC,Mechanical Engineering,2016,60
+CVSR,CVSR Institute of Technology,Private Autonomous,Hyderabad,CSC,Cyber Security,2021,60
+CVSR,CVSR Institute of Technology,Private Autonomous,Hyderabad,CIV,Civil Engineering,2016,60
+CVSR,CVSR Institute of Technology,Private Autonomous,Hyderabad,INF,Information Technology,2016,60
+CVSR,CVSR Institute of Technology,Private Autonomous,Hyderabad,EEE,Electrical and Electronics Engineering,2016,60
+BVRI,BVRI Institute of Technology,Private Autonomous,Hyderabad,CSE,Computer Science and Engineering,2016,120
+BVRI,BVRI Institute of Technology,Private Autonomous,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+BVRI,BVRI Institute of Technology,Private Autonomous,Hyderabad,AIML,Artificial Intelligence and Machine Learning,2020,60
+BVRI,BVRI Institute of Technology,Private Autonomous,Hyderabad,EEE,Electrical and Electronics Engineering,2016,60
+BVRI,BVRI Institute of Technology,Private Autonomous,Hyderabad,MEC,Mechanical Engineering,2016,60
+BVRI,BVRI Institute of Technology,Private Autonomous,Hyderabad,CSC,Cyber Security,2021,60
+BVRI,BVRI Institute of Technology,Private Autonomous,Hyderabad,CIV,Civil Engineering,2016,60
+BVRW,BVRW Institute of Technology,Private Autonomous,Hyderabad,CSE,Computer Science and Engineering,2016,120
+BVRW,BVRW Institute of Technology,Private Autonomous,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+BVRW,BVRW Institute of Technology,Private Autonomous,Hyderabad,CSC,Cyber Security,2021,60
+BVRW,BVRW Institute of Technology,Private Autonomous,Hyderabad,CIV,Civil Engineering,2016,60
+BVRW,BVRW Institute of Technology,Private Autonomous,Hyderabad,CSD,Data Science,2020,60
+BVRW,BVRW Institute of Technology,Private Autonomous,Hyderabad,INF,Information Technology,2016,60
+MVSR,MVSR Institute of Technology,Private Autonomous,Warangal,CSE,Computer Science and Engineering,2016,120
+MVSR,MVSR Institute of Technology,Private Autonomous,Warangal,ECE,Electronics and Communication Engineering,2016,120
+MVSR,MVSR Institute of Technology,Private Autonomous,Warangal,CSC,Cyber Security,2021,60
+MVSR,MVSR Institute of Technology,Private Autonomous,Warangal,MEC,Mechanical Engineering,2016,60
+MVSR,MVSR Institute of Technology,Private Autonomous,Warangal,INF,Information Technology,2016,60
+SNIS,SNIS Institute of Technology,Private Autonomous,Nalgonda,CSE,Computer Science and Engineering,2016,120
+SNIS,SNIS Institute of Technology,Private Autonomous,Nalgonda,ECE,Electronics and Communication Engineering,2016,120
+SNIS,SNIS Institute of Technology,Private Autonomous,Nalgonda,MEC,Mechanical Engineering,2016,60
+SNIS,SNIS Institute of Technology,Private Autonomous,Nalgonda,EEE,Electrical and Electronics Engineering,2016,60
+SNIS,SNIS Institute of Technology,Private Autonomous,Nalgonda,CIV,Civil Engineering,2016,60
+IARE,IARE Institute of Technology,Private Autonomous,Khammam,CSE,Computer Science and Engineering,2016,120
+IARE,IARE Institute of Technology,Private Autonomous,Khammam,ECE,Electronics and Communication Engineering,2016,120
+IARE,IARE Institute of Technology,Private Autonomous,Khammam,CSD,Data Science,2020,60
+IARE,IARE Institute of Technology,Private Autonomous,Khammam,CSC,Cyber Security,2021,60
+IARE,IARE Institute of Technology,Private Autonomous,Khammam,MEC,Mechanical Engineering,2016,60
+IARE,IARE Institute of Technology,Private Autonomous,Khammam,AIML,Artificial Intelligence and Machine Learning,2020,60
+MLRS,MLRS Institute of Technology,Private Autonomous,Nalgonda,CSE,Computer Science and Engineering,2016,120
+MLRS,MLRS Institute of Technology,Private Autonomous,Nalgonda,ECE,Electronics and Communication Engineering,2016,120
+MLRS,MLRS Institute of Technology,Private Autonomous,Nalgonda,EEE,Electrical and Electronics Engineering,2016,60
+MLRS,MLRS Institute of Technology,Private Autonomous,Nalgonda,INF,Information Technology,2016,60
+MLRS,MLRS Institute of Technology,Private Autonomous,Nalgonda,MEC,Mechanical Engineering,2016,60
+MLRS,MLRS Institute of Technology,Private Autonomous,Nalgonda,CIV,Civil Engineering,2016,60
+MLRS,MLRS Institute of Technology,Private Autonomous,Nalgonda,AIML,Artificial Intelligence and Machine Learning,2020,60
+CVRH,CVRH Institute of Technology,Private Autonomous,Mahabubnagar,CSE,Computer Science and Engineering,2016,120
+CVRH,CVRH Institute of Technology,Private Autonomous,Mahabubnagar,ECE,Electronics and Communication Engineering,2016,120
+CVRH,CVRH Institute of Technology,Private Autonomous,Mahabubnagar,CSC,Cyber Security,2021,60
+CVRH,CVRH Institute of Technology,Private Autonomous,Mahabubnagar,INF,Information Technology,2016,60
+CVRH,CVRH Institute of Technology,Private Autonomous,Mahabubnagar,EEE,Electrical and Electronics Engineering,2016,60
+CVRH,CVRH Institute of Technology,Private Autonomous,Mahabubnagar,CSD,Data Science,2020,60
+CVRH,CVRH Institute of Technology,Private Autonomous,Mahabubnagar,AIML,Artificial Intelligence and Machine Learning,2020,60
+CMRK,CMRK Institute of Technology,Private Autonomous,Khammam,CSE,Computer Science and Engineering,2016,120
+CMRK,CMRK Institute of Technology,Private Autonomous,Khammam,ECE,Electronics and Communication Engineering,2016,120
+CMRK,CMRK Institute of Technology,Private Autonomous,Khammam,CSD,Data Science,2020,60
+CMRK,CMRK Institute of Technology,Private Autonomous,Khammam,MEC,Mechanical Engineering,2016,60
+CMRK,CMRK Institute of Technology,Private Autonomous,Khammam,CIV,Civil Engineering,2016,60
+CMRK,CMRK Institute of Technology,Private Autonomous,Khammam,CSC,Cyber Security,2021,60
+CMRK,CMRK Institute of Technology,Private Autonomous,Khammam,INF,Information Technology,2016,60
+CMRT,CMRT Institute of Technology,Private Autonomous,Mahabubnagar,CSE,Computer Science and Engineering,2016,120
+CMRT,CMRT Institute of Technology,Private Autonomous,Mahabubnagar,ECE,Electronics and Communication Engineering,2016,120
+CMRT,CMRT Institute of Technology,Private Autonomous,Mahabubnagar,CIV,Civil Engineering,2016,60
+CMRT,CMRT Institute of Technology,Private Autonomous,Mahabubnagar,CSD,Data Science,2020,60
+CMRT,CMRT Institute of Technology,Private Autonomous,Mahabubnagar,MEC,Mechanical Engineering,2016,60
+CMRT,CMRT Institute of Technology,Private Autonomous,Mahabubnagar,AIML,Artificial Intelligence and Machine Learning,2020,60
+CMRM,CMRM Institute of Technology,Private Autonomous,Nizamabad,CSE,Computer Science and Engineering,2016,120
+CMRM,CMRM Institute of Technology,Private Autonomous,Nizamabad,ECE,Electronics and Communication Engineering,2016,120
+CMRM,CMRM Institute of Technology,Private Autonomous,Nizamabad,MEC,Mechanical Engineering,2016,60
+CMRM,CMRM Institute of Technology,Private Autonomous,Nizamabad,CSC,Cyber Security,2021,60
+CMRM,CMRM Institute of Technology,Private Autonomous,Nizamabad,EEE,Electrical and Electronics Engineering,2016,60
+CMRM,CMRM Institute of Technology,Private Autonomous,Nizamabad,INF,Information Technology,2016,60
+CMRM,CMRM Institute of Technology,Private Autonomous,Nizamabad,CIV,Civil Engineering,2016,60
+CMRM,CMRM Institute of Technology,Private Autonomous,Nizamabad,CSD,Data Science,2020,60
+MCET,MCET Institute of Technology,Private Autonomous,Medchal-Malkajgiri,CSE,Computer Science and Engineering,2016,120
+MCET,MCET Institute of Technology,Private Autonomous,Medchal-Malkajgiri,ECE,Electronics and Communication Engineering,2016,120
+MCET,MCET Institute of Technology,Private Autonomous,Medchal-Malkajgiri,CSD,Data Science,2020,60
+MCET,MCET Institute of Technology,Private Autonomous,Medchal-Malkajgiri,MEC,Mechanical Engineering,2016,60
+MCET,MCET Institute of Technology,Private Autonomous,Medchal-Malkajgiri,INF,Information Technology,2016,60
+NGIT,NGIT Institute of Technology,Private Autonomous,Hyderabad,CSE,Computer Science and Engineering,2016,120
+NGIT,NGIT Institute of Technology,Private Autonomous,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+NGIT,NGIT Institute of Technology,Private Autonomous,Hyderabad,MEC,Mechanical Engineering,2016,60
+NGIT,NGIT Institute of Technology,Private Autonomous,Hyderabad,EEE,Electrical and Electronics Engineering,2016,60
+NGIT,NGIT Institute of Technology,Private Autonomous,Hyderabad,CIV,Civil Engineering,2016,60
+NGIT,NGIT Institute of Technology,Private Autonomous,Hyderabad,CSC,Cyber Security,2021,60
+NGIT,NGIT Institute of Technology,Private Autonomous,Hyderabad,CSD,Data Science,2020,60
+NGIT,NGIT Institute of Technology,Private Autonomous,Hyderabad,AIML,Artificial Intelligence and Machine Learning,2020,60
+GNIT,GNIT Institute of Technology,Private Autonomous,Khammam,CSE,Computer Science and Engineering,2016,120
+GNIT,GNIT Institute of Technology,Private Autonomous,Khammam,ECE,Electronics and Communication Engineering,2016,120
+GNIT,GNIT Institute of Technology,Private Autonomous,Khammam,AIML,Artificial Intelligence and Machine Learning,2020,60
+GNIT,GNIT Institute of Technology,Private Autonomous,Khammam,INF,Information Technology,2016,60
+GNIT,GNIT Institute of Technology,Private Autonomous,Khammam,CSC,Cyber Security,2021,60
+GNIT,GNIT Institute of Technology,Private Autonomous,Khammam,CSD,Data Science,2020,60
+GURU,GURU Institute of Technology,Private Autonomous,Khammam,CSE,Computer Science and Engineering,2016,120
+GURU,GURU Institute of Technology,Private Autonomous,Khammam,ECE,Electronics and Communication Engineering,2016,120
+GURU,GURU Institute of Technology,Private Autonomous,Khammam,EEE,Electrical and Electronics Engineering,2016,60
+GURU,GURU Institute of Technology,Private Autonomous,Khammam,AIML,Artificial Intelligence and Machine Learning,2020,60
+GURU,GURU Institute of Technology,Private Autonomous,Khammam,CSC,Cyber Security,2021,60
+GURU,GURU Institute of Technology,Private Autonomous,Khammam,INF,Information Technology,2016,60
+GURU,GURU Institute of Technology,Private Autonomous,Khammam,MEC,Mechanical Engineering,2016,60
+VMEG,VMEG Institute of Technology,Private Autonomous,Nizamabad,CSE,Computer Science and Engineering,2016,120
+VMEG,VMEG Institute of Technology,Private Autonomous,Nizamabad,ECE,Electronics and Communication Engineering,2016,120
+VMEG,VMEG Institute of Technology,Private Autonomous,Nizamabad,CSD,Data Science,2020,60
+VMEG,VMEG Institute of Technology,Private Autonomous,Nizamabad,EEE,Electrical and Electronics Engineering,2016,60
+VMEG,VMEG Institute of Technology,Private Autonomous,Nizamabad,INF,Information Technology,2016,60
+VMEG,VMEG Institute of Technology,Private Autonomous,Nizamabad,AIML,Artificial Intelligence and Machine Learning,2020,60
+VMEG,VMEG Institute of Technology,Private Autonomous,Nizamabad,CSC,Cyber Security,2021,60
+VMEG,VMEG Institute of Technology,Private Autonomous,Nizamabad,CIV,Civil Engineering,2016,60
+JBIET,JBIET Engineering College,Private Autonomous,Warangal,CSE,Computer Science and Engineering,2016,120
+JBIET,JBIET Engineering College,Private Autonomous,Warangal,ECE,Electronics and Communication Engineering,2016,120
+JBIET,JBIET Engineering College,Private Autonomous,Warangal,INF,Information Technology,2016,60
+JBIET,JBIET Engineering College,Private Autonomous,Warangal,CSD,Data Science,2020,60
+JBIET,JBIET Engineering College,Private Autonomous,Warangal,AIML,Artificial Intelligence and Machine Learning,2020,60
+JBIET,JBIET Engineering College,Private Autonomous,Warangal,MEC,Mechanical Engineering,2016,60
+SRIK,SRIK Institute of Technology,Private Autonomous,Rangareddy,CSE,Computer Science and Engineering,2016,120
+SRIK,SRIK Institute of Technology,Private Autonomous,Rangareddy,ECE,Electronics and Communication Engineering,2016,120
+SRIK,SRIK Institute of Technology,Private Autonomous,Rangareddy,AIML,Artificial Intelligence and Machine Learning,2020,60
+SRIK,SRIK Institute of Technology,Private Autonomous,Rangareddy,INF,Information Technology,2016,60
+SRIK,SRIK Institute of Technology,Private Autonomous,Rangareddy,EEE,Electrical and Electronics Engineering,2016,60
+SREC,SREC Institute of Technology,Private Autonomous,Nizamabad,CSE,Computer Science and Engineering,2016,120
+SREC,SREC Institute of Technology,Private Autonomous,Nizamabad,ECE,Electronics and Communication Engineering,2016,120
+SREC,SREC Institute of Technology,Private Autonomous,Nizamabad,CIV,Civil Engineering,2016,60
+SREC,SREC Institute of Technology,Private Autonomous,Nizamabad,CSD,Data Science,2020,60
+SREC,SREC Institute of Technology,Private Autonomous,Nizamabad,AIML,Artificial Intelligence and Machine Learning,2020,60
+SRUB,SRUB Institute of Technology,Private Autonomous,Karimnagar,CSE,Computer Science and Engineering,2016,120
+SRUB,SRUB Institute of Technology,Private Autonomous,Karimnagar,ECE,Electronics and Communication Engineering,2016,120
+SRUB,SRUB Institute of Technology,Private Autonomous,Karimnagar,MEC,Mechanical Engineering,2016,60
+SRUB,SRUB Institute of Technology,Private Autonomous,Karimnagar,EEE,Electrical and Electronics Engineering,2016,60
+SRUB,SRUB Institute of Technology,Private Autonomous,Karimnagar,AIML,Artificial Intelligence and Machine Learning,2020,60
+SRUB,SRUB Institute of Technology,Private Autonomous,Karimnagar,CIV,Civil Engineering,2016,60
+SRUB,SRUB Institute of Technology,Private Autonomous,Karimnagar,INF,Information Technology,2016,60
+SRUB,SRUB Institute of Technology,Private Autonomous,Karimnagar,CSC,Cyber Security,2021,60
+KITS,KITS Institute of Technology,Private Autonomous,Rangareddy,CSE,Computer Science and Engineering,2016,120
+KITS,KITS Institute of Technology,Private Autonomous,Rangareddy,ECE,Electronics and Communication Engineering,2016,120
+KITS,KITS Institute of Technology,Private Autonomous,Rangareddy,AIML,Artificial Intelligence and Machine Learning,2020,60
+KITS,KITS Institute of Technology,Private Autonomous,Rangareddy,INF,Information Technology,2016,60
+KITS,KITS Institute of Technology,Private Autonomous,Rangareddy,CSD,Data Science,2020,60
+KITS,KITS Institute of Technology,Private Autonomous,Rangareddy,EEE,Electrical and Electronics Engineering,2016,60
+KUCE,KUCE Institute of Technology,University Autonomous,Hyderabad,CSE,Computer Science and Engineering,2016,120
+KUCE,KUCE Institute of Technology,University Autonomous,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+KUCE,KUCE Institute of Technology,University Autonomous,Hyderabad,CIV,Civil Engineering,2016,60
+KUCE,KUCE Institute of Technology,University Autonomous,Hyderabad,EEE,Electrical and Electronics Engineering,2016,60
+KUCE,KUCE Institute of Technology,University Autonomous,Hyderabad,INF,Information Technology,2016,60
+KUCE,KUCE Institute of Technology,University Autonomous,Hyderabad,CSC,Cyber Security,2021,60
+KUCE,KUCE Institute of Technology,University Autonomous,Hyderabad,MEC,Mechanical Engineering,2016,60
+KUCE,KUCE Institute of Technology,University Autonomous,Hyderabad,CSD,Data Science,2020,60
+JNTUM,JNTUM Engineering College,University Autonomous,Rangareddy,CSE,Computer Science and Engineering,2016,120
+JNTUM,JNTUM Engineering College,University Autonomous,Rangareddy,ECE,Electronics and Communication Engineering,2016,120
+JNTUM,JNTUM Engineering College,University Autonomous,Rangareddy,CSC,Cyber Security,2021,60
+JNTUM,JNTUM Engineering College,University Autonomous,Rangareddy,AIML,Artificial Intelligence and Machine Learning,2020,60
+JNTUM,JNTUM Engineering College,University Autonomous,Rangareddy,EEE,Electrical and Electronics Engineering,2016,60
+JNTUM,JNTUM Engineering College,University Autonomous,Rangareddy,INF,Information Technology,2016,60
+JNTUM,JNTUM Engineering College,University Autonomous,Rangareddy,CIV,Civil Engineering,2016,60
+JNTUM,JNTUM Engineering College,University Autonomous,Rangareddy,CSD,Data Science,2020,60
+JNTUS,JNTUS Engineering College,University Autonomous,Warangal,CSE,Computer Science and Engineering,2016,120
+JNTUS,JNTUS Engineering College,University Autonomous,Warangal,ECE,Electronics and Communication Engineering,2016,120
+JNTUS,JNTUS Engineering College,University Autonomous,Warangal,MEC,Mechanical Engineering,2016,60
+JNTUS,JNTUS Engineering College,University Autonomous,Warangal,CIV,Civil Engineering,2016,60
+JNTUS,JNTUS Engineering College,University Autonomous,Warangal,EEE,Electrical and Electronics Engineering,2016,60
+JNTUS,JNTUS Engineering College,University Autonomous,Warangal,CSC,Cyber Security,2021,60
+JNTUS,JNTUS Engineering College,University Autonomous,Warangal,CSD,Data Science,2020,60
+JNTUS,JNTUS Engineering College,University Autonomous,Warangal,INF,Information Technology,2016,60
+VBIT,VBIT Institute of Technology,Private,Rangareddy,CSE,Computer Science and Engineering,2016,120
+VBIT,VBIT Institute of Technology,Private,Rangareddy,ECE,Electronics and Communication Engineering,2016,120
+VBIT,VBIT Institute of Technology,Private,Rangareddy,CSC,Cyber Security,2021,60
+VBIT,VBIT Institute of Technology,Private,Rangareddy,EEE,Electrical and Electronics Engineering,2016,60
+VBIT,VBIT Institute of Technology,Private,Rangareddy,CIV,Civil Engineering,2016,60
+VBIT,VBIT Institute of Technology,Private,Rangareddy,MEC,Mechanical Engineering,2016,60
+VBIT,VBIT Institute of Technology,Private,Rangareddy,INF,Information Technology,2016,60
+TKRC,TKRC Institute of Technology,Private,Hyderabad,CSE,Computer Science and Engineering,2016,120
+TKRC,TKRC Institute of Technology,Private,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+TKRC,TKRC Institute of Technology,Private,Hyderabad,EEE,Electrical and Electronics Engineering,2016,60
+TKRC,TKRC Institute of Technology,Private,Hyderabad,CIV,Civil Engineering,2016,60
+TKRC,TKRC Institute of Technology,Private,Hyderabad,CSD,Data Science,2020,60
+TKRC,TKRC Institute of Technology,Private,Hyderabad,CSC,Cyber Security,2021,60
+TKRC,TKRC Institute of Technology,Private,Hyderabad,MEC,Mechanical Engineering,2016,60
+MREC,MREC Institute of Technology,Private,Warangal,CSE,Computer Science and Engineering,2016,120
+MREC,MREC Institute of Technology,Private,Warangal,ECE,Electronics and Communication Engineering,2016,120
+MREC,MREC Institute of Technology,Private,Warangal,CSC,Cyber Security,2021,60
+MREC,MREC Institute of Technology,Private,Warangal,AIML,Artificial Intelligence and Machine Learning,2020,60
+MREC,MREC Institute of Technology,Private,Warangal,CSD,Data Science,2020,60
+MREM,MREM Institute of Technology,Private,Nalgonda,CSE,Computer Science and Engineering,2016,120
+MREM,MREM Institute of Technology,Private,Nalgonda,ECE,Electronics and Communication Engineering,2016,120
+MREM,MREM Institute of Technology,Private,Nalgonda,CSC,Cyber Security,2021,60
+MREM,MREM Institute of Technology,Private,Nalgonda,CIV,Civil Engineering,2016,60
+MREM,MREM Institute of Technology,Private,Nalgonda,CSD,Data Science,2020,60
+MREM,MREM Institute of Technology,Private,Nalgonda,INF,Information Technology,2016,60
+MRIT,MRIT Institute of Technology,Private,Khammam,CSE,Computer Science and Engineering,2016,120
+MRIT,MRIT Institute of Technology,Private,Khammam,ECE,Electronics and Communication Engineering,2016,120
+MRIT,MRIT Institute of Technology,Private,Khammam,CSD,Data Science,2020,60
+MRIT,MRIT Institute of Technology,Private,Khammam,CIV,Civil Engineering,2016,60
+MRIT,MRIT Institute of Technology,Private,Khammam,AIML,Artificial Intelligence and Machine Learning,2020,60
+MRIT,MRIT Institute of Technology,Private,Khammam,INF,Information Technology,2016,60
+MRIT,MRIT Institute of Technology,Private,Khammam,CSC,Cyber Security,2021,60
+MRIT,MRIT Institute of Technology,Private,Khammam,EEE,Electrical and Electronics Engineering,2016,60
+MLRI,MLRI Institute of Technology,Private,Khammam,CSE,Computer Science and Engineering,2016,120
+MLRI,MLRI Institute of Technology,Private,Khammam,ECE,Electronics and Communication Engineering,2016,120
+MLRI,MLRI Institute of Technology,Private,Khammam,MEC,Mechanical Engineering,2016,60
+MLRI,MLRI Institute of Technology,Private,Khammam,CIV,Civil Engineering,2016,60
+MLRI,MLRI Institute of Technology,Private,Khammam,INF,Information Technology,2016,60
+MLRI,MLRI Institute of Technology,Private,Khammam,CSC,Cyber Security,2021,60
+MLRI,MLRI Institute of Technology,Private,Khammam,CSD,Data Science,2020,60
+MLRI,MLRI Institute of Technology,Private,Khammam,AIML,Artificial Intelligence and Machine Learning,2020,60
+SPHN,SPHN Institute of Technology,Private,Mahabubnagar,CSE,Computer Science and Engineering,2016,120
+SPHN,SPHN Institute of Technology,Private,Mahabubnagar,ECE,Electronics and Communication Engineering,2016,120
+SPHN,SPHN Institute of Technology,Private,Mahabubnagar,EEE,Electrical and Electronics Engineering,2016,60
+SPHN,SPHN Institute of Technology,Private,Mahabubnagar,MEC,Mechanical Engineering,2016,60
+SPHN,SPHN Institute of Technology,Private,Mahabubnagar,INF,Information Technology,2016,60
+SPHN,SPHN Institute of Technology,Private,Mahabubnagar,CIV,Civil Engineering,2016,60
+VGNT,VGNT Institute of Technology,Private,Nalgonda,CSE,Computer Science and Engineering,2016,120
+VGNT,VGNT Institute of Technology,Private,Nalgonda,ECE,Electronics and Communication Engineering,2016,120
+VGNT,VGNT Institute of Technology,Private,Nalgonda,INF,Information Technology,2016,60
+VGNT,VGNT Institute of Technology,Private,Nalgonda,CSC,Cyber Security,2021,60
+VGNT,VGNT Institute of Technology,Private,Nalgonda,MEC,Mechanical Engineering,2016,60
+VJIT,VJIT Institute of Technology,Private,Nalgonda,CSE,Computer Science and Engineering,2016,120
+VJIT,VJIT Institute of Technology,Private,Nalgonda,ECE,Electronics and Communication Engineering,2016,120
+VJIT,VJIT Institute of Technology,Private,Nalgonda,AIML,Artificial Intelligence and Machine Learning,2020,60
+VJIT,VJIT Institute of Technology,Private,Nalgonda,CIV,Civil Engineering,2016,60
+VJIT,VJIT Institute of Technology,Private,Nalgonda,MEC,Mechanical Engineering,2016,60
+VJIT,VJIT Institute of Technology,Private,Nalgonda,CSD,Data Science,2020,60
+VJIT,VJIT Institute of Technology,Private,Nalgonda,INF,Information Technology,2016,60
+VJIT,VJIT Institute of Technology,Private,Nalgonda,EEE,Electrical and Electronics Engineering,2016,60
+SMEC,SMEC Institute of Technology,Private,Rangareddy,CSE,Computer Science and Engineering,2016,120
+SMEC,SMEC Institute of Technology,Private,Rangareddy,ECE,Electronics and Communication Engineering,2016,120
+SMEC,SMEC Institute of Technology,Private,Rangareddy,CIV,Civil Engineering,2016,60
+SMEC,SMEC Institute of Technology,Private,Rangareddy,CSC,Cyber Security,2021,60
+SMEC,SMEC Institute of Technology,Private,Rangareddy,CSD,Data Science,2020,60
+SMEC,SMEC Institute of Technology,Private,Rangareddy,MEC,Mechanical Engineering,2016,60
+SMEC,SMEC Institute of Technology,Private,Rangareddy,EEE,Electrical and Electronics Engineering,2016,60
+TRNI,TRNI Institute of Technology,Private,Khammam,CSE,Computer Science and Engineering,2016,120
+TRNI,TRNI Institute of Technology,Private,Khammam,ECE,Electronics and Communication Engineering,2016,120
+TRNI,TRNI Institute of Technology,Private,Khammam,EEE,Electrical and Electronics Engineering,2016,60
+TRNI,TRNI Institute of Technology,Private,Khammam,CIV,Civil Engineering,2016,60
+TRNI,TRNI Institute of Technology,Private,Khammam,CSD,Data Science,2020,60
+TRNI,TRNI Institute of Technology,Private,Khammam,INF,Information Technology,2016,60
+TRNI,TRNI Institute of Technology,Private,Khammam,AIML,Artificial Intelligence and Machine Learning,2020,60
+MAIT,MAIT Institute of Technology,Private,Hyderabad,CSE,Computer Science and Engineering,2016,120
+MAIT,MAIT Institute of Technology,Private,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+MAIT,MAIT Institute of Technology,Private,Hyderabad,AIML,Artificial Intelligence and Machine Learning,2020,60
+MAIT,MAIT Institute of Technology,Private,Hyderabad,INF,Information Technology,2016,60
+MAIT,MAIT Institute of Technology,Private,Hyderabad,EEE,Electrical and Electronics Engineering,2016,60
+AAER,AAER Institute of Technology,Private,Sangareddy,CSE,Computer Science and Engineering,2016,120
+AAER,AAER Institute of Technology,Private,Sangareddy,ECE,Electronics and Communication Engineering,2016,120
+AAER,AAER Institute of Technology,Private,Sangareddy,CSD,Data Science,2020,60
+AAER,AAER Institute of Technology,Private,Sangareddy,CSC,Cyber Security,2021,60
+AAER,AAER Institute of Technology,Private,Sangareddy,CIV,Civil Engineering,2016,60
+AAER,AAER Institute of Technology,Private,Sangareddy,EEE,Electrical and Electronics Engineering,2016,60
+AAER,AAER Institute of Technology,Private,Sangareddy,MEC,Mechanical Engineering,2016,60
+AAER,AAER Institute of Technology,Private,Sangareddy,INF,Information Technology,2016,60
+NACE,NACE Institute of Technology,Private,Sangareddy,CSE,Computer Science and Engineering,2016,120
+NACE,NACE Institute of Technology,Private,Sangareddy,ECE,Electronics and Communication Engineering,2016,120
+NACE,NACE Institute of Technology,Private,Sangareddy,CSD,Data Science,2020,60
+NACE,NACE Institute of Technology,Private,Sangareddy,AIML,Artificial Intelligence and Machine Learning,2020,60
+NACE,NACE Institute of Technology,Private,Sangareddy,EEE,Electrical and Electronics Engineering,2016,60
+GEPE,GEPE Institute of Technology,Private,Warangal,CSE,Computer Science and Engineering,2016,120
+GEPE,GEPE Institute of Technology,Private,Warangal,ECE,Electronics and Communication Engineering,2016,120
+GEPE,GEPE Institute of Technology,Private,Warangal,MEC,Mechanical Engineering,2016,60
+GEPE,GEPE Institute of Technology,Private,Warangal,EEE,Electrical and Electronics Engineering,2016,60
+GEPE,GEPE Institute of Technology,Private,Warangal,CSD,Data Science,2020,60
+PRER,PRER Institute of Technology,Private,Khammam,CSE,Computer Science and Engineering,2016,120
+PRER,PRER Institute of Technology,Private,Khammam,ECE,Electronics and Communication Engineering,2016,120
+PRER,PRER Institute of Technology,Private,Khammam,CSD,Data Science,2020,60
+PRER,PRER Institute of Technology,Private,Khammam,CSC,Cyber Security,2021,60
+PRER,PRER Institute of Technology,Private,Khammam,AIML,Artificial Intelligence and Machine Learning,2020,60
+PRER,PRER Institute of Technology,Private,Khammam,EEE,Electrical and Electronics Engineering,2016,60
+PRER,PRER Institute of Technology,Private,Khammam,INF,Information Technology,2016,60
+BHTC,BHTC Institute of Technology,Private,Khammam,CSE,Computer Science and Engineering,2016,120
+BHTC,BHTC Institute of Technology,Private,Khammam,ECE,Electronics and Communication Engineering,2016,120
+BHTC,BHTC Institute of Technology,Private,Khammam,INF,Information Technology,2016,60
+BHTC,BHTC Institute of Technology,Private,Khammam,EEE,Electrical and Electronics Engineering,2016,60
+BHTC,BHTC Institute of Technology,Private,Khammam,CSC,Cyber Security,2021,60
+BHTC,BHTC Institute of Technology,Private,Khammam,CIV,Civil Engineering,2016,60
+BHTC,BHTC Institute of Technology,Private,Khammam,AIML,Artificial Intelligence and Machine Learning,2020,60
+ANEC,ANEC Institute of Technology,Private,Sangareddy,CSE,Computer Science and Engineering,2016,120
+ANEC,ANEC Institute of Technology,Private,Sangareddy,ECE,Electronics and Communication Engineering,2016,120
+ANEC,ANEC Institute of Technology,Private,Sangareddy,CSC,Cyber Security,2021,60
+ANEC,ANEC Institute of Technology,Private,Sangareddy,CIV,Civil Engineering,2016,60
+ANEC,ANEC Institute of Technology,Private,Sangareddy,INF,Information Technology,2016,60
+ANEC,ANEC Institute of Technology,Private,Sangareddy,CSD,Data Science,2020,60
+SANI,SANI Institute of Technology,Private,Khammam,CSE,Computer Science and Engineering,2016,120
+SANI,SANI Institute of Technology,Private,Khammam,ECE,Electronics and Communication Engineering,2016,120
+SANI,SANI Institute of Technology,Private,Khammam,INF,Information Technology,2016,60
+SANI,SANI Institute of Technology,Private,Khammam,AIML,Artificial Intelligence and Machine Learning,2020,60
+SANI,SANI Institute of Technology,Private,Khammam,CSC,Cyber Security,2021,60
+SANI,SANI Institute of Technology,Private,Khammam,CSD,Data Science,2020,60
+MACE,MACE Institute of Technology,Private,Rangareddy,CSE,Computer Science and Engineering,2016,120
+MACE,MACE Institute of Technology,Private,Rangareddy,ECE,Electronics and Communication Engineering,2016,120
+MACE,MACE Institute of Technology,Private,Rangareddy,MEC,Mechanical Engineering,2016,60
+MACE,MACE Institute of Technology,Private,Rangareddy,CSD,Data Science,2020,60
+MACE,MACE Institute of Technology,Private,Rangareddy,EEE,Electrical and Electronics Engineering,2016,60
+NAEC,NAEC Institute of Technology,Private,Karimnagar,CSE,Computer Science and Engineering,2016,120
+NAEC,NAEC Institute of Technology,Private,Karimnagar,ECE,Electronics and Communication Engineering,2016,120
+NAEC,NAEC Institute of Technology,Private,Karimnagar,CIV,Civil Engineering,2016,60
+NAEC,NAEC Institute of Technology,Private,Karimnagar,AIML,Artificial Intelligence and Machine Learning,2020,60
+NAEC,NAEC Institute of Technology,Private,Karimnagar,CSD,Data Science,2020,60
+NAEC,NAEC Institute of Technology,Private,Karimnagar,CSC,Cyber Security,2021,60
+NAEC,NAEC Institute of Technology,Private,Karimnagar,MEC,Mechanical Engineering,2016,60
+NAEC,NAEC Institute of Technology,Private,Karimnagar,INF,Information Technology,2016,60
+TRRU,TRRU Institute of Technology,Private,Medchal-Malkajgiri,CSE,Computer Science and Engineering,2016,120
+TRRU,TRRU Institute of Technology,Private,Medchal-Malkajgiri,ECE,Electronics and Communication Engineering,2016,120
+TRRU,TRRU Institute of Technology,Private,Medchal-Malkajgiri,AIML,Artificial Intelligence and Machine Learning,2020,60
+TRRU,TRRU Institute of Technology,Private,Medchal-Malkajgiri,CSD,Data Science,2020,60
+TRRU,TRRU Institute of Technology,Private,Medchal-Malkajgiri,MEC,Mechanical Engineering,2016,60
+TRRU,TRRU Institute of Technology,Private,Medchal-Malkajgiri,INF,Information Technology,2016,60
+TRRU,TRRU Institute of Technology,Private,Medchal-Malkajgiri,CSC,Cyber Security,2021,60
+AAEC,AAEC Institute of Technology,Private,Nalgonda,CSE,Computer Science and Engineering,2016,120
+AAEC,AAEC Institute of Technology,Private,Nalgonda,ECE,Electronics and Communication Engineering,2016,120
+AAEC,AAEC Institute of Technology,Private,Nalgonda,MEC,Mechanical Engineering,2016,60
+AAEC,AAEC Institute of Technology,Private,Nalgonda,CIV,Civil Engineering,2016,60
+AAEC,AAEC Institute of Technology,Private,Nalgonda,EEE,Electrical and Electronics Engineering,2016,60
+TRPE,TRPE Institute of Technology,Private,Mahabubnagar,CSE,Computer Science and Engineering,2016,120
+TRPE,TRPE Institute of Technology,Private,Mahabubnagar,ECE,Electronics and Communication Engineering,2016,120
+TRPE,TRPE Institute of Technology,Private,Mahabubnagar,AIML,Artificial Intelligence and Machine Learning,2020,60
+TRPE,TRPE Institute of Technology,Private,Mahabubnagar,INF,Information Technology,2016,60
+TRPE,TRPE Institute of Technology,Private,Mahabubnagar,MEC,Mechanical Engineering,2016,60
+VIEC,VIEC Institute of Technology,Private,Warangal,CSE,Computer Science and Engineering,2016,120
+VIEC,VIEC Institute of Technology,Private,Warangal,ECE,Electronics and Communication Engineering,2016,120
+VIEC,VIEC Institute of Technology,Private,Warangal,CSC,Cyber Security,2021,60
+VIEC,VIEC Institute of Technology,Private,Warangal,CIV,Civil Engineering,2016,60
+VIEC,VIEC Institute of Technology,Private,Warangal,AIML,Artificial Intelligence and Machine Learning,2020,60
+VIEC,VIEC Institute of Technology,Private,Warangal,MEC,Mechanical Engineering,2016,60
+VIEC,VIEC Institute of Technology,Private,Warangal,EEE,Electrical and Electronics Engineering,2016,60
+PRGI,PRGI Institute of Technology,Private,Karimnagar,CSE,Computer Science and Engineering,2016,120
+PRGI,PRGI Institute of Technology,Private,Karimnagar,ECE,Electronics and Communication Engineering,2016,120
+PRGI,PRGI Institute of Technology,Private,Karimnagar,MEC,Mechanical Engineering,2016,60
+PRGI,PRGI Institute of Technology,Private,Karimnagar,CIV,Civil Engineering,2016,60
+PRGI,PRGI Institute of Technology,Private,Karimnagar,AIML,Artificial Intelligence and Machine Learning,2020,60
+PRGI,PRGI Institute of Technology,Private,Karimnagar,CSC,Cyber Security,2021,60
+PRGI,PRGI Institute of Technology,Private,Karimnagar,CSD,Data Science,2020,60
+PRGI,PRGI Institute of Technology,Private,Karimnagar,INF,Information Technology,2016,60
+GECE,GECE Institute of Technology,Private,Sangareddy,CSE,Computer Science and Engineering,2016,120
+GECE,GECE Institute of Technology,Private,Sangareddy,ECE,Electronics and Communication Engineering,2016,120
+GECE,GECE Institute of Technology,Private,Sangareddy,AIML,Artificial Intelligence and Machine Learning,2020,60
+GECE,GECE Institute of Technology,Private,Sangareddy,CSC,Cyber Security,2021,60
+GECE,GECE Institute of Technology,Private,Sangareddy,MEC,Mechanical Engineering,2016,60
+GECE,GECE Institute of Technology,Private,Sangareddy,CIV,Civil Engineering,2016,60
+GECE,GECE Institute of Technology,Private,Sangareddy,CSD,Data Science,2020,60
+GECE,GECE Institute of Technology,Private,Sangareddy,INF,Information Technology,2016,60
+TRER,TRER Institute of Technology,Private,Nalgonda,CSE,Computer Science and Engineering,2016,120
+TRER,TRER Institute of Technology,Private,Nalgonda,ECE,Electronics and Communication Engineering,2016,120
+TRER,TRER Institute of Technology,Private,Nalgonda,CSD,Data Science,2020,60
+TRER,TRER Institute of Technology,Private,Nalgonda,MEC,Mechanical Engineering,2016,60
+TRER,TRER Institute of Technology,Private,Nalgonda,EEE,Electrical and Electronics Engineering,2016,60
+TRER,TRER Institute of Technology,Private,Nalgonda,INF,Information Technology,2016,60
+TRER,TRER Institute of Technology,Private,Nalgonda,CIV,Civil Engineering,2016,60
+BARU,BARU Institute of Technology,Private,Khammam,CSE,Computer Science and Engineering,2016,120
+BARU,BARU Institute of Technology,Private,Khammam,ECE,Electronics and Communication Engineering,2016,120
+BARU,BARU Institute of Technology,Private,Khammam,MEC,Mechanical Engineering,2016,60
+BARU,BARU Institute of Technology,Private,Khammam,CSD,Data Science,2020,60
+BARU,BARU Institute of Technology,Private,Khammam,EEE,Electrical and Electronics Engineering,2016,60
+SRGI,SRGI Institute of Technology,Private,Mahabubnagar,CSE,Computer Science and Engineering,2016,120
+SRGI,SRGI Institute of Technology,Private,Mahabubnagar,ECE,Electronics and Communication Engineering,2016,120
+SRGI,SRGI Institute of Technology,Private,Mahabubnagar,INF,Information Technology,2016,60
+SRGI,SRGI Institute of Technology,Private,Mahabubnagar,EEE,Electrical and Electronics Engineering,2016,60
+SRGI,SRGI Institute of Technology,Private,Mahabubnagar,CSC,Cyber Security,2021,60
+SRGI,SRGI Institute of Technology,Private,Mahabubnagar,CIV,Civil Engineering,2016,60
+MATC,MATC Institute of Technology,Private,Khammam,CSE,Computer Science and Engineering,2016,120
+MATC,MATC Institute of Technology,Private,Khammam,ECE,Electronics and Communication Engineering,2016,120
+MATC,MATC Institute of Technology,Private,Khammam,EEE,Electrical and Electronics Engineering,2016,60
+MATC,MATC Institute of Technology,Private,Khammam,MEC,Mechanical Engineering,2016,60
+MATC,MATC Institute of Technology,Private,Khammam,INF,Information Technology,2016,60
+MATC,MATC Institute of Technology,Private,Khammam,CSD,Data Science,2020,60
+MATC,MATC Institute of Technology,Private,Khammam,CSC,Cyber Security,2021,60
+PRIT,PRIT Institute of Technology,Private,Hyderabad,CSE,Computer Science and Engineering,2016,120
+PRIT,PRIT Institute of Technology,Private,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+PRIT,PRIT Institute of Technology,Private,Hyderabad,CSC,Cyber Security,2021,60
+PRIT,PRIT Institute of Technology,Private,Hyderabad,CIV,Civil Engineering,2016,60
+PRIT,PRIT Institute of Technology,Private,Hyderabad,CSD,Data Science,2020,60
+PRIT,PRIT Institute of Technology,Private,Hyderabad,AIML,Artificial Intelligence and Machine Learning,2020,60
+VIPE,VIPE Institute of Technology,Private,Hyderabad,CSE,Computer Science and Engineering,2016,120
+VIPE,VIPE Institute of Technology,Private,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+VIPE,VIPE Institute of Technology,Private,Hyderabad,CIV,Civil Engineering,2016,60
+VIPE,VIPE Institute of Technology,Private,Hyderabad,EEE,Electrical and Electronics Engineering,2016,60
+VIPE,VIPE Institute of Technology,Private,Hyderabad,MEC,Mechanical Engineering,2016,60
+VIPE,VIPE Institute of Technology,Private,Hyderabad,INF,Information Technology,2016,60
+VIER,VIER Institute of Technology,Private,Mahabubnagar,CSE,Computer Science and Engineering,2016,120
+VIER,VIER Institute of Technology,Private,Mahabubnagar,ECE,Electronics and Communication Engineering,2016,120
+VIER,VIER Institute of Technology,Private,Mahabubnagar,AIML,Artificial Intelligence and Machine Learning,2020,60
+VIER,VIER Institute of Technology,Private,Mahabubnagar,CSC,Cyber Security,2021,60
+VIER,VIER Institute of Technology,Private,Mahabubnagar,INF,Information Technology,2016,60
+VIER,VIER Institute of Technology,Private,Mahabubnagar,EEE,Electrical and Electronics Engineering,2016,60
+BHER,BHER Institute of Technology,Private,Mahabubnagar,CSE,Computer Science and Engineering,2016,120
+BHER,BHER Institute of Technology,Private,Mahabubnagar,ECE,Electronics and Communication Engineering,2016,120
+BHER,BHER Institute of Technology,Private,Mahabubnagar,INF,Information Technology,2016,60
+BHER,BHER Institute of Technology,Private,Mahabubnagar,CSC,Cyber Security,2021,60
+BHER,BHER Institute of Technology,Private,Mahabubnagar,CSD,Data Science,2020,60
+BHER,BHER Institute of Technology,Private,Mahabubnagar,MEC,Mechanical Engineering,2016,60
+BHER,BHER Institute of Technology,Private,Mahabubnagar,EEE,Electrical and Electronics Engineering,2016,60
+ANCE,ANCE Institute of Technology,Private,Sangareddy,CSE,Computer Science and Engineering,2016,120
+ANCE,ANCE Institute of Technology,Private,Sangareddy,ECE,Electronics and Communication Engineering,2016,120
+ANCE,ANCE Institute of Technology,Private,Sangareddy,CSC,Cyber Security,2021,60
+ANCE,ANCE Institute of Technology,Private,Sangareddy,CIV,Civil Engineering,2016,60
+ANCE,ANCE Institute of Technology,Private,Sangareddy,MEC,Mechanical Engineering,2016,60
+ANCE,ANCE Institute of Technology,Private,Sangareddy,CSD,Data Science,2020,60
+ANCE,ANCE Institute of Technology,Private,Sangareddy,INF,Information Technology,2016,60
+BAIT,BAIT Institute of Technology,Private,Mahabubnagar,CSE,Computer Science and Engineering,2016,120
+BAIT,BAIT Institute of Technology,Private,Mahabubnagar,ECE,Electronics and Communication Engineering,2016,120
+BAIT,BAIT Institute of Technology,Private,Mahabubnagar,CSD,Data Science,2020,60
+BAIT,BAIT Institute of Technology,Private,Mahabubnagar,EEE,Electrical and Electronics Engineering,2016,60
+BAIT,BAIT Institute of Technology,Private,Mahabubnagar,CSC,Cyber Security,2021,60
+BAIT,BAIT Institute of Technology,Private,Mahabubnagar,MEC,Mechanical Engineering,2016,60
+MAGI,MAGI Institute of Technology,Private,Rangareddy,CSE,Computer Science and Engineering,2016,120
+MAGI,MAGI Institute of Technology,Private,Rangareddy,ECE,Electronics and Communication Engineering,2016,120
+MAGI,MAGI Institute of Technology,Private,Rangareddy,AIML,Artificial Intelligence and Machine Learning,2020,60
+MAGI,MAGI Institute of Technology,Private,Rangareddy,CSC,Cyber Security,2021,60
+MAGI,MAGI Institute of Technology,Private,Rangareddy,INF,Information Technology,2016,60
+MAGI,MAGI Institute of Technology,Private,Rangareddy,EEE,Electrical and Electronics Engineering,2016,60
+MAGI,MAGI Institute of Technology,Private,Rangareddy,CSD,Data Science,2020,60
+MAGI,MAGI Institute of Technology,Private,Rangareddy,CIV,Civil Engineering,2016,60
+SRPE,SRPE Institute of Technology,Private,Khammam,CSE,Computer Science and Engineering,2016,120
+SRPE,SRPE Institute of Technology,Private,Khammam,ECE,Electronics and Communication Engineering,2016,120
+SRPE,SRPE Institute of Technology,Private,Khammam,CSC,Cyber Security,2021,60
+SRPE,SRPE Institute of Technology,Private,Khammam,CIV,Civil Engineering,2016,60
+SRPE,SRPE Institute of Technology,Private,Khammam,EEE,Electrical and Electronics Engineering,2016,60
+NARU,NARU Institute of Technology,Private,Karimnagar,CSE,Computer Science and Engineering,2016,120
+NARU,NARU Institute of Technology,Private,Karimnagar,ECE,Electronics and Communication Engineering,2016,120
+NARU,NARU Institute of Technology,Private,Karimnagar,AIML,Artificial Intelligence and Machine Learning,2020,60
+NARU,NARU Institute of Technology,Private,Karimnagar,INF,Information Technology,2016,60
+NARU,NARU Institute of Technology,Private,Karimnagar,MEC,Mechanical Engineering,2016,60
+NARU,NARU Institute of Technology,Private,Karimnagar,CSD,Data Science,2020,60
+NARU,NARU Institute of Technology,Private,Karimnagar,CIV,Civil Engineering,2016,60
+NAPE,NAPE Institute of Technology,Private,Nizamabad,CSE,Computer Science and Engineering,2016,120
+NAPE,NAPE Institute of Technology,Private,Nizamabad,ECE,Electronics and Communication Engineering,2016,120
+NAPE,NAPE Institute of Technology,Private,Nizamabad,CIV,Civil Engineering,2016,60
+NAPE,NAPE Institute of Technology,Private,Nizamabad,MEC,Mechanical Engineering,2016,60
+NAPE,NAPE Institute of Technology,Private,Nizamabad,AIML,Artificial Intelligence and Machine Learning,2020,60
+MAEC,MAEC Institute of Technology,Private,Mahabubnagar,CSE,Computer Science and Engineering,2016,120
+MAEC,MAEC Institute of Technology,Private,Mahabubnagar,ECE,Electronics and Communication Engineering,2016,120
+MAEC,MAEC Institute of Technology,Private,Mahabubnagar,CSC,Cyber Security,2021,60
+MAEC,MAEC Institute of Technology,Private,Mahabubnagar,CIV,Civil Engineering,2016,60
+MAEC,MAEC Institute of Technology,Private,Mahabubnagar,AIML,Artificial Intelligence and Machine Learning,2020,60
+MAEC,MAEC Institute of Technology,Private,Mahabubnagar,EEE,Electrical and Electronics Engineering,2016,60
+MAEC,MAEC Institute of Technology,Private,Mahabubnagar,INF,Information Technology,2016,60
+BHGI,BHGI Institute of Technology,Private,Warangal,CSE,Computer Science and Engineering,2016,120
+BHGI,BHGI Institute of Technology,Private,Warangal,ECE,Electronics and Communication Engineering,2016,120
+BHGI,BHGI Institute of Technology,Private,Warangal,INF,Information Technology,2016,60
+BHGI,BHGI Institute of Technology,Private,Warangal,MEC,Mechanical Engineering,2016,60
+BHGI,BHGI Institute of Technology,Private,Warangal,EEE,Electrical and Electronics Engineering,2016,60
+BHGI,BHGI Institute of Technology,Private,Warangal,CIV,Civil Engineering,2016,60
+BHGI,BHGI Institute of Technology,Private,Warangal,CSC,Cyber Security,2021,60
+GEIT,GEIT Institute of Technology,Private,Hyderabad,CSE,Computer Science and Engineering,2016,120
+GEIT,GEIT Institute of Technology,Private,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+GEIT,GEIT Institute of Technology,Private,Hyderabad,CSD,Data Science,2020,60
+GEIT,GEIT Institute of Technology,Private,Hyderabad,AIML,Artificial Intelligence and Machine Learning,2020,60
+GEIT,GEIT Institute of Technology,Private,Hyderabad,CSC,Cyber Security,2021,60
+BAER,BAER Institute of Technology,Private,Rangareddy,CSE,Computer Science and Engineering,2016,120
+BAER,BAER Institute of Technology,Private,Rangareddy,ECE,Electronics and Communication Engineering,2016,120
+BAER,BAER Institute of Technology,Private,Rangareddy,CIV,Civil Engineering,2016,60
+BAER,BAER Institute of Technology,Private,Rangareddy,CSC,Cyber Security,2021,60
+BAER,BAER Institute of Technology,Private,Rangareddy,INF,Information Technology,2016,60
+BAER,BAER Institute of Technology,Private,Rangareddy,MEC,Mechanical Engineering,2016,60
+BAER,BAER Institute of Technology,Private,Rangareddy,AIML,Artificial Intelligence and Machine Learning,2020,60
+BAER,BAER Institute of Technology,Private,Rangareddy,EEE,Electrical and Electronics Engineering,2016,60
+BHIT,BHIT Institute of Technology,Private,Nalgonda,CSE,Computer Science and Engineering,2016,120
+BHIT,BHIT Institute of Technology,Private,Nalgonda,ECE,Electronics and Communication Engineering,2016,120
+BHIT,BHIT Institute of Technology,Private,Nalgonda,CSD,Data Science,2020,60
+BHIT,BHIT Institute of Technology,Private,Nalgonda,AIML,Artificial Intelligence and Machine Learning,2020,60
+BHIT,BHIT Institute of Technology,Private,Nalgonda,MEC,Mechanical Engineering,2016,60
+BHIT,BHIT Institute of Technology,Private,Nalgonda,INF,Information Technology,2016,60
+BHIT,BHIT Institute of Technology,Private,Nalgonda,CIV,Civil Engineering,2016,60
+BHIT,BHIT Institute of Technology,Private,Nalgonda,EEE,Electrical and Electronics Engineering,2016,60
+SRER,SRER Institute of Technology,Private,Nizamabad,CSE,Computer Science and Engineering,2016,120
+SRER,SRER Institute of Technology,Private,Nizamabad,ECE,Electronics and Communication Engineering,2016,120
+SRER,SRER Institute of Technology,Private,Nizamabad,AIML,Artificial Intelligence and Machine Learning,2020,60
+SRER,SRER Institute of Technology,Private,Nizamabad,CIV,Civil Engineering,2016,60
+SRER,SRER Institute of Technology,Private,Nizamabad,MEC,Mechanical Engineering,2016,60
+SRER,SRER Institute of Technology,Private,Nizamabad,EEE,Electrical and Electronics Engineering,2016,60
+SRER,SRER Institute of Technology,Private,Nizamabad,CSC,Cyber Security,2021,60
+SRER,SRER Institute of Technology,Private,Nizamabad,INF,Information Technology,2016,60
+AANI,AANI Institute of Technology,Private,Karimnagar,CSE,Computer Science and Engineering,2016,120
+AANI,AANI Institute of Technology,Private,Karimnagar,ECE,Electronics and Communication Engineering,2016,120
+AANI,AANI Institute of Technology,Private,Karimnagar,AIML,Artificial Intelligence and Machine Learning,2020,60
+AANI,AANI Institute of Technology,Private,Karimnagar,CIV,Civil Engineering,2016,60
+AANI,AANI Institute of Technology,Private,Karimnagar,EEE,Electrical and Electronics Engineering,2016,60
+AANI,AANI Institute of Technology,Private,Karimnagar,CSD,Data Science,2020,60
+AANI,AANI Institute of Technology,Private,Karimnagar,INF,Information Technology,2016,60
+AANI,AANI Institute of Technology,Private,Karimnagar,CSC,Cyber Security,2021,60
+ANPE,ANPE Institute of Technology,Private,Nizamabad,CSE,Computer Science and Engineering,2016,120
+ANPE,ANPE Institute of Technology,Private,Nizamabad,ECE,Electronics and Communication Engineering,2016,120
+ANPE,ANPE Institute of Technology,Private,Nizamabad,MEC,Mechanical Engineering,2016,60
+ANPE,ANPE Institute of Technology,Private,Nizamabad,CSC,Cyber Security,2021,60
+ANPE,ANPE Institute of Technology,Private,Nizamabad,INF,Information Technology,2016,60
+ANPE,ANPE Institute of Technology,Private,Nizamabad,AIML,Artificial Intelligence and Machine Learning,2020,60
+ANPE,ANPE Institute of Technology,Private,Nizamabad,EEE,Electrical and Electronics Engineering,2016,60
+ANPE,ANPE Institute of Technology,Private,Nizamabad,CSD,Data Science,2020,60
+BAPE,BAPE Institute of Technology,Private,Mahabubnagar,CSE,Computer Science and Engineering,2016,120
+BAPE,BAPE Institute of Technology,Private,Mahabubnagar,ECE,Electronics and Communication Engineering,2016,120
+BAPE,BAPE Institute of Technology,Private,Mahabubnagar,CIV,Civil Engineering,2016,60
+BAPE,BAPE Institute of Technology,Private,Mahabubnagar,CSD,Data Science,2020,60
+BAPE,BAPE Institute of Technology,Private,Mahabubnagar,MEC,Mechanical Engineering,2016,60
+SRTC,SRTC Institute of Technology,Private,Sangareddy,CSE,Computer Science and Engineering,2016,120
+SRTC,SRTC Institute of Technology,Private,Sangareddy,ECE,Electronics and Communication Engineering,2016,120
+SRTC,SRTC Institute of Technology,Private,Sangareddy,CSC,Cyber Security,2021,60
+SRTC,SRTC Institute of Technology,Private,Sangareddy,AIML,Artificial Intelligence and Machine Learning,2020,60
+SRTC,SRTC Institute of Technology,Private,Sangareddy,EEE,Electrical and Electronics Engineering,2016,60
+BHPE,BHPE Institute of Technology,Private,Hyderabad,CSE,Computer Science and Engineering,2016,120
+BHPE,BHPE Institute of Technology,Private,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+BHPE,BHPE Institute of Technology,Private,Hyderabad,AIML,Artificial Intelligence and Machine Learning,2020,60
+BHPE,BHPE Institute of Technology,Private,Hyderabad,INF,Information Technology,2016,60
+BHPE,BHPE Institute of Technology,Private,Hyderabad,EEE,Electrical and Electronics Engineering,2016,60
+BHPE,BHPE Institute of Technology,Private,Hyderabad,CIV,Civil Engineering,2016,60
+BHPE,BHPE Institute of Technology,Private,Hyderabad,CSD,Data Science,2020,60
+MARU,MARU Institute of Technology,Private,Hyderabad,CSE,Computer Science and Engineering,2016,120
+MARU,MARU Institute of Technology,Private,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+MARU,MARU Institute of Technology,Private,Hyderabad,INF,Information Technology,2016,60
+MARU,MARU Institute of Technology,Private,Hyderabad,AIML,Artificial Intelligence and Machine Learning,2020,60
+MARU,MARU Institute of Technology,Private,Hyderabad,CIV,Civil Engineering,2016,60
+MARU,MARU Institute of Technology,Private,Hyderabad,MEC,Mechanical Engineering,2016,60
+MARU,MARU Institute of Technology,Private,Hyderabad,CSC,Cyber Security,2021,60
+TRGI,TRGI Institute of Technology,Private,Nalgonda,CSE,Computer Science and Engineering,2016,120
+TRGI,TRGI Institute of Technology,Private,Nalgonda,ECE,Electronics and Communication Engineering,2016,120
+TRGI,TRGI Institute of Technology,Private,Nalgonda,INF,Information Technology,2016,60
+TRGI,TRGI Institute of Technology,Private,Nalgonda,CSC,Cyber Security,2021,60
+TRGI,TRGI Institute of Technology,Private,Nalgonda,CIV,Civil Engineering,2016,60
+BHRU,BHRU Institute of Technology,Private,Sangareddy,CSE,Computer Science and Engineering,2016,120
+BHRU,BHRU Institute of Technology,Private,Sangareddy,ECE,Electronics and Communication Engineering,2016,120
+BHRU,BHRU Institute of Technology,Private,Sangareddy,CSC,Cyber Security,2021,60
+BHRU,BHRU Institute of Technology,Private,Sangareddy,INF,Information Technology,2016,60
+BHRU,BHRU Institute of Technology,Private,Sangareddy,CIV,Civil Engineering,2016,60
+PRTC,PRTC Institute of Technology,Private,Khammam,CSE,Computer Science and Engineering,2016,120
+PRTC,PRTC Institute of Technology,Private,Khammam,ECE,Electronics and Communication Engineering,2016,120
+PRTC,PRTC Institute of Technology,Private,Khammam,MEC,Mechanical Engineering,2016,60
+PRTC,PRTC Institute of Technology,Private,Khammam,CIV,Civil Engineering,2016,60
+PRTC,PRTC Institute of Technology,Private,Khammam,CSC,Cyber Security,2021,60
+AARU,AARU Institute of Technology,Private,Medchal-Malkajgiri,CSE,Computer Science and Engineering,2016,120
+AARU,AARU Institute of Technology,Private,Medchal-Malkajgiri,ECE,Electronics and Communication Engineering,2016,120
+AARU,AARU Institute of Technology,Private,Medchal-Malkajgiri,MEC,Mechanical Engineering,2016,60
+AARU,AARU Institute of Technology,Private,Medchal-Malkajgiri,INF,Information Technology,2016,60
+AARU,AARU Institute of Technology,Private,Medchal-Malkajgiri,EEE,Electrical and Electronics Engineering,2016,60
+SRRU,SRRU Institute of Technology,Private,Rangareddy,CSE,Computer Science and Engineering,2016,120
+SRRU,SRRU Institute of Technology,Private,Rangareddy,ECE,Electronics and Communication Engineering,2016,120
+SRRU,SRRU Institute of Technology,Private,Rangareddy,AIML,Artificial Intelligence and Machine Learning,2020,60
+SRRU,SRRU Institute of Technology,Private,Rangareddy,CSD,Data Science,2020,60
+SRRU,SRRU Institute of Technology,Private,Rangareddy,INF,Information Technology,2016,60
+PRCE,PRCE Institute of Technology,Private,Hyderabad,CSE,Computer Science and Engineering,2016,120
+PRCE,PRCE Institute of Technology,Private,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+PRCE,PRCE Institute of Technology,Private,Hyderabad,AIML,Artificial Intelligence and Machine Learning,2020,60
+PRCE,PRCE Institute of Technology,Private,Hyderabad,MEC,Mechanical Engineering,2016,60
+PRCE,PRCE Institute of Technology,Private,Hyderabad,INF,Information Technology,2016,60
+PRCE,PRCE Institute of Technology,Private,Hyderabad,CSC,Cyber Security,2021,60
+TREC,TREC Institute of Technology,Private,Warangal,CSE,Computer Science and Engineering,2016,120
+TREC,TREC Institute of Technology,Private,Warangal,ECE,Electronics and Communication Engineering,2016,120
+TREC,TREC Institute of Technology,Private,Warangal,CSD,Data Science,2020,60
+TREC,TREC Institute of Technology,Private,Warangal,AIML,Artificial Intelligence and Machine Learning,2020,60
+TREC,TREC Institute of Technology,Private,Warangal,CIV,Civil Engineering,2016,60
+TREC,TREC Institute of Technology,Private,Warangal,INF,Information Technology,2016,60
+TREC,TREC Institute of Technology,Private,Warangal,MEC,Mechanical Engineering,2016,60
+BHEC,BHEC Institute of Technology,Private,Hyderabad,CSE,Computer Science and Engineering,2016,120
+BHEC,BHEC Institute of Technology,Private,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+BHEC,BHEC Institute of Technology,Private,Hyderabad,CIV,Civil Engineering,2016,60
+BHEC,BHEC Institute of Technology,Private,Hyderabad,EEE,Electrical and Electronics Engineering,2016,60
+BHEC,BHEC Institute of Technology,Private,Hyderabad,INF,Information Technology,2016,60
+BHEC,BHEC Institute of Technology,Private,Hyderabad,AIML,Artificial Intelligence and Machine Learning,2020,60
+BHEC,BHEC Institute of Technology,Private,Hyderabad,CSD,Data Science,2020,60
+VIIT,VIIT Institute of Technology,Private,Nizamabad,CSE,Computer Science and Engineering,2016,120
+VIIT,VIIT Institute of Technology,Private,Nizamabad,ECE,Electronics and Communication Engineering,2016,120
+VIIT,VIIT Institute of Technology,Private,Nizamabad,CIV,Civil Engineering,2016,60
+VIIT,VIIT Institute of Technology,Private,Nizamabad,CSD,Data Science,2020,60
+VIIT,VIIT Institute of Technology,Private,Nizamabad,AIML,Artificial Intelligence and Machine Learning,2020,60
+VIIT,VIIT Institute of Technology,Private,Nizamabad,CSC,Cyber Security,2021,60
+SAEC,SAEC Institute of Technology,Private,Hyderabad,CSE,Computer Science and Engineering,2016,120
+SAEC,SAEC Institute of Technology,Private,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+SAEC,SAEC Institute of Technology,Private,Hyderabad,MEC,Mechanical Engineering,2016,60
+SAEC,SAEC Institute of Technology,Private,Hyderabad,AIML,Artificial Intelligence and Machine Learning,2020,60
+SAEC,SAEC Institute of Technology,Private,Hyderabad,CSC,Cyber Security,2021,60
+SAEC,SAEC Institute of Technology,Private,Hyderabad,INF,Information Technology,2016,60
+SAEC,SAEC Institute of Technology,Private,Hyderabad,CSD,Data Science,2020,60
+BAGI,BAGI Institute of Technology,Private,Hyderabad,CSE,Computer Science and Engineering,2016,120
+BAGI,BAGI Institute of Technology,Private,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+BAGI,BAGI Institute of Technology,Private,Hyderabad,CIV,Civil Engineering,2016,60
+BAGI,BAGI Institute of Technology,Private,Hyderabad,EEE,Electrical and Electronics Engineering,2016,60
+BAGI,BAGI Institute of Technology,Private,Hyderabad,INF,Information Technology,2016,60
+BAGI,BAGI Institute of Technology,Private,Hyderabad,MEC,Mechanical Engineering,2016,60
+BAGI,BAGI Institute of Technology,Private,Hyderabad,CSD,Data Science,2020,60
+VIRU,VIRU Institute of Technology,Private,Medchal-Malkajgiri,CSE,Computer Science and Engineering,2016,120
+VIRU,VIRU Institute of Technology,Private,Medchal-Malkajgiri,ECE,Electronics and Communication Engineering,2016,120
+VIRU,VIRU Institute of Technology,Private,Medchal-Malkajgiri,EEE,Electrical and Electronics Engineering,2016,60
+VIRU,VIRU Institute of Technology,Private,Medchal-Malkajgiri,CIV,Civil Engineering,2016,60
+VIRU,VIRU Institute of Technology,Private,Medchal-Malkajgiri,AIML,Artificial Intelligence and Machine Learning,2020,60
+VIRU,VIRU Institute of Technology,Private,Medchal-Malkajgiri,MEC,Mechanical Engineering,2016,60
+PRNI,PRNI Institute of Technology,Private,Medchal-Malkajgiri,CSE,Computer Science and Engineering,2016,120
+PRNI,PRNI Institute of Technology,Private,Medchal-Malkajgiri,ECE,Electronics and Communication Engineering,2016,120
+PRNI,PRNI Institute of Technology,Private,Medchal-Malkajgiri,EEE,Electrical and Electronics Engineering,2016,60
+PRNI,PRNI Institute of Technology,Private,Medchal-Malkajgiri,CSC,Cyber Security,2021,60
+PRNI,PRNI Institute of Technology,Private,Medchal-Malkajgiri,INF,Information Technology,2016,60
+PRNI,PRNI Institute of Technology,Private,Medchal-Malkajgiri,AIML,Artificial Intelligence and Machine Learning,2020,60
+PRNI,PRNI Institute of Technology,Private,Medchal-Malkajgiri,CIV,Civil Engineering,2016,60
+PRNI,PRNI Institute of Technology,Private,Medchal-Malkajgiri,CSD,Data Science,2020,60
+ANER,ANER Institute of Technology,Private,Karimnagar,CSE,Computer Science and Engineering,2016,120
+ANER,ANER Institute of Technology,Private,Karimnagar,ECE,Electronics and Communication Engineering,2016,120
+ANER,ANER Institute of Technology,Private,Karimnagar,AIML,Artificial Intelligence and Machine Learning,2020,60
+ANER,ANER Institute of Technology,Private,Karimnagar,MEC,Mechanical Engineering,2016,60
+ANER,ANER Institute of Technology,Private,Karimnagar,CIV,Civil Engineering,2016,60
+ANER,ANER Institute of Technology,Private,Karimnagar,INF,Information Technology,2016,60
+MAER,MAER Institute of Technology,Private,Khammam,CSE,Computer Science and Engineering,2016,120
+MAER,MAER Institute of Technology,Private,Khammam,ECE,Electronics and Communication Engineering,2016,120
+MAER,MAER Institute of Technology,Private,Khammam,CSD,Data Science,2020,60
+MAER,MAER Institute of Technology,Private,Khammam,AIML,Artificial Intelligence and Machine Learning,2020,60
+MAER,MAER Institute of Technology,Private,Khammam,INF,Information Technology,2016,60
+MAER,MAER Institute of Technology,Private,Khammam,EEE,Electrical and Electronics Engineering,2016,60
+MAER,MAER Institute of Technology,Private,Khammam,CIV,Civil Engineering,2016,60
+MAER,MAER Institute of Technology,Private,Khammam,MEC,Mechanical Engineering,2016,60
+VIGI,VIGI Institute of Technology,Private,Warangal,CSE,Computer Science and Engineering,2016,120
+VIGI,VIGI Institute of Technology,Private,Warangal,ECE,Electronics and Communication Engineering,2016,120
+VIGI,VIGI Institute of Technology,Private,Warangal,CIV,Civil Engineering,2016,60
+VIGI,VIGI Institute of Technology,Private,Warangal,AIML,Artificial Intelligence and Machine Learning,2020,60
+VIGI,VIGI Institute of Technology,Private,Warangal,INF,Information Technology,2016,60
+VIGI,VIGI Institute of Technology,Private,Warangal,CSD,Data Science,2020,60
+AATC,AATC Institute of Technology,Private,Hyderabad,CSE,Computer Science and Engineering,2016,120
+AATC,AATC Institute of Technology,Private,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+AATC,AATC Institute of Technology,Private,Hyderabad,INF,Information Technology,2016,60
+AATC,AATC Institute of Technology,Private,Hyderabad,EEE,Electrical and Electronics Engineering,2016,60
+AATC,AATC Institute of Technology,Private,Hyderabad,CIV,Civil Engineering,2016,60
+AATC,AATC Institute of Technology,Private,Hyderabad,CSD,Data Science,2020,60
+AATC,AATC Institute of Technology,Private,Hyderabad,CSC,Cyber Security,2021,60
+AATC,AATC Institute of Technology,Private,Hyderabad,MEC,Mechanical Engineering,2016,60
+MAPE,MAPE Institute of Technology,Private,Hyderabad,CSE,Computer Science and Engineering,2016,120
+MAPE,MAPE Institute of Technology,Private,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+MAPE,MAPE Institute of Technology,Private,Hyderabad,AIML,Artificial Intelligence and Machine Learning,2020,60
+MAPE,MAPE Institute of Technology,Private,Hyderabad,MEC,Mechanical Engineering,2016,60
+MAPE,MAPE Institute of Technology,Private,Hyderabad,INF,Information Technology,2016,60
+MAPE,MAPE Institute of Technology,Private,Hyderabad,CSD,Data Science,2020,60
+MAPE,MAPE Institute of Technology,Private,Hyderabad,EEE,Electrical and Electronics Engineering,2016,60
+SRCE,SRCE Institute of Technology,Private,Rangareddy,CSE,Computer Science and Engineering,2016,120
+SRCE,SRCE Institute of Technology,Private,Rangareddy,ECE,Electronics and Communication Engineering,2016,120
+SRCE,SRCE Institute of Technology,Private,Rangareddy,MEC,Mechanical Engineering,2016,60
+SRCE,SRCE Institute of Technology,Private,Rangareddy,CSC,Cyber Security,2021,60
+SRCE,SRCE Institute of Technology,Private,Rangareddy,EEE,Electrical and Electronics Engineering,2016,60
+SRCE,SRCE Institute of Technology,Private,Rangareddy,AIML,Artificial Intelligence and Machine Learning,2020,60
+SRCE,SRCE Institute of Technology,Private,Rangareddy,INF,Information Technology,2016,60
+SRCE,SRCE Institute of Technology,Private,Rangareddy,CSD,Data Science,2020,60
+AAPE,AAPE Institute of Technology,Private,Medchal-Malkajgiri,CSE,Computer Science and Engineering,2016,120
+AAPE,AAPE Institute of Technology,Private,Medchal-Malkajgiri,ECE,Electronics and Communication Engineering,2016,120
+AAPE,AAPE Institute of Technology,Private,Medchal-Malkajgiri,CSD,Data Science,2020,60
+AAPE,AAPE Institute of Technology,Private,Medchal-Malkajgiri,EEE,Electrical and Electronics Engineering,2016,60
+AAPE,AAPE Institute of Technology,Private,Medchal-Malkajgiri,MEC,Mechanical Engineering,2016,60
+AAPE,AAPE Institute of Technology,Private,Medchal-Malkajgiri,INF,Information Technology,2016,60
+NATC,NATC Institute of Technology,Private,Warangal,CSE,Computer Science and Engineering,2016,120
+NATC,NATC Institute of Technology,Private,Warangal,ECE,Electronics and Communication Engineering,2016,120
+NATC,NATC Institute of Technology,Private,Warangal,INF,Information Technology,2016,60
+NATC,NATC Institute of Technology,Private,Warangal,CSD,Data Science,2020,60
+NATC,NATC Institute of Technology,Private,Warangal,MEC,Mechanical Engineering,2016,60
+NATC,NATC Institute of Technology,Private,Warangal,EEE,Electrical and Electronics Engineering,2016,60
+AAGI,AAGI Institute of Technology,Private,Nalgonda,CSE,Computer Science and Engineering,2016,120
+AAGI,AAGI Institute of Technology,Private,Nalgonda,ECE,Electronics and Communication Engineering,2016,120
+AAGI,AAGI Institute of Technology,Private,Nalgonda,INF,Information Technology,2016,60
+AAGI,AAGI Institute of Technology,Private,Nalgonda,CIV,Civil Engineering,2016,60
+AAGI,AAGI Institute of Technology,Private,Nalgonda,EEE,Electrical and Electronics Engineering,2016,60
+PRRU,PRRU Institute of Technology,Private,Karimnagar,CSE,Computer Science and Engineering,2016,120
+PRRU,PRRU Institute of Technology,Private,Karimnagar,ECE,Electronics and Communication Engineering,2016,120
+PRRU,PRRU Institute of Technology,Private,Karimnagar,CSC,Cyber Security,2021,60
+PRRU,PRRU Institute of Technology,Private,Karimnagar,CIV,Civil Engineering,2016,60
+PRRU,PRRU Institute of Technology,Private,Karimnagar,AIML,Artificial Intelligence and Machine Learning,2020,60
+SAER,SAER Institute of Technology,Private,Khammam,CSE,Computer Science and Engineering,2016,120
+SAER,SAER Institute of Technology,Private,Khammam,ECE,Electronics and Communication Engineering,2016,120
+SAER,SAER Institute of Technology,Private,Khammam,AIML,Artificial Intelligence and Machine Learning,2020,60
+SAER,SAER Institute of Technology,Private,Khammam,INF,Information Technology,2016,60
+SAER,SAER Institute of Technology,Private,Khammam,CSC,Cyber Security,2021,60
+SAER,SAER Institute of Technology,Private,Khammam,CSD,Data Science,2020,60
+BAEC,BAEC Institute of Technology,Private,Sangareddy,CSE,Computer Science and Engineering,2016,120
+BAEC,BAEC Institute of Technology,Private,Sangareddy,ECE,Electronics and Communication Engineering,2016,120
+BAEC,BAEC Institute of Technology,Private,Sangareddy,MEC,Mechanical Engineering,2016,60
+BAEC,BAEC Institute of Technology,Private,Sangareddy,INF,Information Technology,2016,60
+BAEC,BAEC Institute of Technology,Private,Sangareddy,EEE,Electrical and Electronics Engineering,2016,60
+BAEC,BAEC Institute of Technology,Private,Sangareddy,AIML,Artificial Intelligence and Machine Learning,2020,60
+GEEC,GEEC Institute of Technology,Private,Khammam,CSE,Computer Science and Engineering,2016,120
+GEEC,GEEC Institute of Technology,Private,Khammam,ECE,Electronics and Communication Engineering,2016,120
+GEEC,GEEC Institute of Technology,Private,Khammam,CSC,Cyber Security,2021,60
+GEEC,GEEC Institute of Technology,Private,Khammam,MEC,Mechanical Engineering,2016,60
+GEEC,GEEC Institute of Technology,Private,Khammam,AIML,Artificial Intelligence and Machine Learning,2020,60
+GEEC,GEEC Institute of Technology,Private,Khammam,CIV,Civil Engineering,2016,60
+GEEC,GEEC Institute of Technology,Private,Khammam,CSD,Data Science,2020,60
+ANNI,ANNI Institute of Technology,Private,Nizamabad,CSE,Computer Science and Engineering,2016,120
+ANNI,ANNI Institute of Technology,Private,Nizamabad,ECE,Electronics and Communication Engineering,2016,120
+ANNI,ANNI Institute of Technology,Private,Nizamabad,EEE,Electrical and Electronics Engineering,2016,60
+ANNI,ANNI Institute of Technology,Private,Nizamabad,AIML,Artificial Intelligence and Machine Learning,2020,60
+ANNI,ANNI Institute of Technology,Private,Nizamabad,CIV,Civil Engineering,2016,60
+ANNI,ANNI Institute of Technology,Private,Nizamabad,INF,Information Technology,2016,60
+ANNI,ANNI Institute of Technology,Private,Nizamabad,MEC,Mechanical Engineering,2016,60
+ANNI,ANNI Institute of Technology,Private,Nizamabad,CSD,Data Science,2020,60
+TRIT,TRIT Institute of Technology,Private,Hyderabad,CSE,Computer Science and Engineering,2016,120
+TRIT,TRIT Institute of Technology,Private,Hyderabad,ECE,Electronics and Communication Engineering,2016,120
+TRIT,TRIT Institute of Technology,Private,Hyderabad,EEE,Electrical and Electronics Engineering,2016,60
+TRIT,TRIT Institute of Technology,Private,Hyderabad,INF,Information Technology,2016,60
+TRIT,TRIT Institute of Technology,Private,Hyderabad,CIV,Civil Engineering,2016,60
+TRIT,TRIT Institute of Technology,Private,Hyderabad,CSD,Data Science,2020,60
+TRIT,TRIT Institute of Technology,Private,Hyderabad,CSC,Cyber Security,2021,60
+ANIT,ANIT Institute of Technology,Private,Karimnagar,CSE,Computer Science and Engineering,2016,120
+ANIT,ANIT Institute of Technology,Private,Karimnagar,ECE,Electronics and Communication Engineering,2016,120
+ANIT,ANIT Institute of Technology,Private,Karimnagar,INF,Information Technology,2016,60
+ANIT,ANIT Institute of Technology,Private,Karimnagar,MEC,Mechanical Engineering,2016,60
+ANIT,ANIT Institute of Technology,Private,Karimnagar,EEE,Electrical and Electronics Engineering,2016,60
+ANIT,ANIT Institute of Technology,Private,Karimnagar,AIML,Artificial Intelligence and Machine Learning,2020,60
+SARU,SARU Institute of Technology,Private,Nizamabad,CSE,Computer Science and Engineering,2016,120
+SARU,SARU Institute of Technology,Private,Nizamabad,ECE,Electronics and Communication Engineering,2016,120
+SARU,SARU Institute of Technology,Private,Nizamabad,MEC,Mechanical Engineering,2016,60
+SARU,SARU Institute of Technology,Private,Nizamabad,INF,Information Technology,2016,60
+SARU,SARU Institute of Technology,Private,Nizamabad,EEE,Electrical and Electronics Engineering,2016,60
+GERU,GERU Institute of Technology,Private,Warangal,CSE,Computer Science and Engineering,2016,120
+GERU,GERU Institute of Technology,Private,Warangal,ECE,Electronics and Communication Engineering,2016,120
+GERU,GERU Institute of Technology,Private,Warangal,CSC,Cyber Security,2021,60
+GERU,GERU Institute of Technology,Private,Warangal,CSD,Data Science,2020,60
+GERU,GERU Institute of Technology,Private,Warangal,CIV,Civil Engineering,2016,60
+GERU,GERU Institute of Technology,Private,Warangal,AIML,Artificial Intelligence and Machine Learning,2020,60
+BANI,BANI Institute of Technology,Private,Sangareddy,CSE,Computer Science and Engineering,2016,120
+BANI,BANI Institute of Technology,Private,Sangareddy,ECE,Electronics and Communication Engineering,2016,120
+BANI,BANI Institute of Technology,Private,Sangareddy,CIV,Civil Engineering,2016,60
+BANI,BANI Institute of Technology,Private,Sangareddy,MEC,Mechanical Engineering,2016,60
+BANI,BANI Institute of Technology,Private,Sangareddy,CSC,Cyber Security,2021,60
+NAER,NAER Institute of Technology,Private,Medchal-Malkajgiri,CSE,Computer Science and Engineering,2016,120
+NAER,NAER Institute of Technology,Private,Medchal-Malkajgiri,ECE,Electronics and Communication Engineering,2016,120
+NAER,NAER Institute of Technology,Private,Medchal-Malkajgiri,AIML,Artificial Intelligence and Machine Learning,2020,60
+NAER,NAER Institute of Technology,Private,Medchal-Malkajgiri,CSD,Data Science,2020,60
+NAER,NAER Institute of Technology,Private,Medchal-Malkajgiri,CSC,Cyber Security,2021,60
+NAER,NAER Institute of Technology,Private,Medchal-Malkajgiri,EEE,Electrical and Electronics Engineering,2016,60
+NAER,NAER Institute of Technology,Private,Medchal-Malkajgiri,CIV,Civil Engineering,2016,60
+SRNI,SRNI Institute of Technology,Private,Karimnagar,CSE,Computer Science and Engineering,2016,120
+SRNI,SRNI Institute of Technology,Private,Karimnagar,ECE,Electronics and Communication Engineering,2016,120
+SRNI,SRNI Institute of Technology,Private,Karimnagar,CSC,Cyber Security,2021,60
+SRNI,SRNI Institute of Technology,Private,Karimnagar,AIML,Artificial Intelligence and Machine Learning,2020,60
+SRNI,SRNI Institute of Technology,Private,Karimnagar,EEE,Electrical and Electronics Engineering,2016,60
+SRNI,SRNI Institute of Technology,Private,Karimnagar,CIV,Civil Engineering,2016,60
+SRNI,SRNI Institute of Technology,Private,Karimnagar,MEC,Mechanical Engineering,2016,60
+GEER,GEER Institute of Technology,Private,Karimnagar,CSE,Computer Science and Engineering,2016,120
+GEER,GEER Institute of Technology,Private,Karimnagar,ECE,Electronics and Communication Engineering,2016,120
+GEER,GEER Institute of Technology,Private,Karimnagar,CSD,Data Science,2020,60
+GEER,GEER Institute of Technology,Private,Karimnagar,CIV,Civil Engineering,2016,60
+GEER,GEER Institute of Technology,Private,Karimnagar,INF,Information Technology,2016,60
+GEER,GEER Institute of Technology,Private,Karimnagar,CSC,Cyber Security,2021,60
