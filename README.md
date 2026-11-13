@@ -1,4 +1,4 @@
-@'
+﻿@'
 # Predictive Enrollment Analytics Using Machine Learning
 
 A data-driven machine learning and interactive analytics platform built with **Python** and **Streamlit** to predict occupied seats, classify branch demand, and generate longitudinal multi-year enrollment forecasts.
@@ -65,12 +65,12 @@ Located in the `dataset/` directory:
 
 ## Project Structure
 ```text
-├── dataset/
-│   ├── admissions.csv
-│   ├── enrollment.csv
-│   ├── FINAL_DATASET.csv
-│   └── institute_branch.csv
-├── app.py                  # Complete Streamlit UI, preprocessing, ML training & forecasting
-├── requirements.txt        # Python dependencies
-├── .gitignore              # Git ignore rules
-└── README.md               # Project documentation
+â”œâ”€â”€ dataset/
+â”‚   â”œâ”€â”€ admissions.csv
+â”‚   â”œâ”€â”€ enrollment.csv
+â”‚   â”œâ”€â”€ FINAL_DATASET.csv
+â”‚   â””â”€â”€ institute_branch.csv
+â”œâ”€â”€ app.py                  # Complete Streamlit UI, preprocessing, ML training & forecasting
+â”œâ”€â”€ requirements.txt        # Python dependencies
+â”œâ”€â”€ .gitignore              # Git ignore rules
+â””â”€â”€ README.md               # Project documentation
