@@ -1,5 +1,4 @@
-﻿@'
-# Predictive Enrollment Analytics Using Machine Learning
+﻿# Predictive Enrollment Analytics Using Machine Learning
 
 A data-driven machine learning and interactive analytics platform built with **Python** and **Streamlit** to predict occupied seats, classify branch demand, and generate longitudinal multi-year enrollment forecasts.
 
