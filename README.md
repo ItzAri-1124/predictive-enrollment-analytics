@@ -64,12 +64,59 @@ Located in the `dataset/` directory:
 
 ## Project Structure
 ```text
-â”œâ”€â”€ dataset/
-â”‚   â”œâ”€â”€ admissions.csv
-â”‚   â”œâ”€â”€ enrollment.csv
-â”‚   â”œâ”€â”€ FINAL_DATASET.csv
-â”‚   â””â”€â”€ institute_branch.csv
-â”œâ”€â”€ app.py                  # Complete Streamlit UI, preprocessing, ML training & forecasting
-â”œâ”€â”€ requirements.txt        # Python dependencies
-â”œâ”€â”€ .gitignore              # Git ignore rules
-â””â”€â”€ README.md               # Project documentation
+predictive-enrollment-analytics/
+|-- dataset/
+|   |-- admissions.csv
+|   |-- enrollment.csv
+|   |-- FINAL_DATASET.csv
+|   `-- institute_branch.csv
+|-- app.py                  # Complete Streamlit UI, preprocessing, ML training & forecasting
+|-- requirements.txt        # Python dependencies
+|-- .gitignore              # Git ignore rules
+`-- README.md               # Project documentation
+```
+
+---
+
+## Installation Instructions
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/ItzAri-1124/predictive-enrollment-analytics.git
+   cd predictive-enrollment-analytics
+   ```
+
+2. **Create and activate a virtual environment:**
+   ```bash
+   python -m venv venv
+   # Windows:
+   venv\Scripts\activate
+   # macOS/Linux:
+   source venv/bin/activate
+   ```
+
+3. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+---
+
+## Execution Steps
+
+1. Ensure all four CSV files are present inside the `dataset/` folder.
+2. Launch the Streamlit application:
+   ```bash
+   streamlit run app.py
+   ```
+3. Open `http://localhost:8501` in your browser to interact with the five modules.
+
+---
+
+## Authors
+- **Arihan Chintu**
+- **Mahesh Premtej**
+- **Kodali Renusri**
+- **Katika Akash**
+
+*Department of Computer Science and Engineering, Faculty of Science and Technology, The ICFAI Foundation for Higher Education, Hyderabad, Telangana, India.*
